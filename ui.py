@@ -131,3 +131,4 @@ if st.session_state.search_visible and st.session_state.search_response:
     get_results(st.session_state.search_response)
 
 
+
